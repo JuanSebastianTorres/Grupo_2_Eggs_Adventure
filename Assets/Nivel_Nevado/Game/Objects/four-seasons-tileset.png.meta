@@ -1,0 +1,1526 @@
+fileFormatVersion: 2
+guid: c15da3b3076dad1449664a39fec4a997
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 29
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: four-seasons-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 450
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c683000a77dc0c43819a3bb892c89bf
+      internalID: 1293236760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 450
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3807634f080cb7449deb9e9ca696e7c
+      internalID: -832710213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 420
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bc690bc13b91a46a041d80a7f35167
+      internalID: -61304211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 390
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd986a8136b9349bfcb8f03c2b4c94
+      internalID: 1853688068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 360
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108c69edb623aa40a7adaa7f2f3f1e7
+      internalID: 860890505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 210
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00088347b42f3614e9410095ca03d408
+      internalID: 159995569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 180
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf74bdeaca9a0c48b3f82bd2086ef4d
+      internalID: 280236992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 120
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b044e0f32fc39469cc9801a766104f
+      internalID: 572513895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 90
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03bea7299636a4fab359830c630b25
+      internalID: -1505324421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 60
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f9dd05b801654e8f80e7ee6d79618
+      internalID: -2106331194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 30
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e856f980cb33845b2ec985f36e6c58
+      internalID: 1999860921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 450
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf004aabac2dd6c44beec324d966b97c
+      internalID: 196553775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 450
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321b181c708b2d4986554e6c386a8f1
+      internalID: 947639732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 421
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a455f7914ab840b414db10cdea81d
+      internalID: -1236862577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 391
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf83e81ad9651e46992487a7057ca20
+      internalID: 1590018674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 421
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf2f1f2cde1824e9c9bd022606d176
+      internalID: -1188920395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 421
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2503c5b32cde6438e05c5c6068dd87
+      internalID: -1336596518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 391
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bdd39aeb76b1f40a5fd45db0b037bd
+      internalID: 1458059933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 391
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2f3ab486e8df4fa9f4c605f8112d6
+      internalID: -1051568415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 269
+        width: 29
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17ca8d6bdd9b9438dd7862101a65f1
+      internalID: -2047207231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 29
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ec4436a65cf84eaf2f3c0db28762a
+      internalID: -1487869130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b924a052f9ccc4ca673f168fa0a8e6
+      internalID: 1049765865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 152
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fe9575b92e924690439fa69b45aea
+      internalID: -53301438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 270
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778761d1573a1074ab07c82c3a7149e2
+      internalID: -443037425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 300
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee8f195b0ee644797837eef4f6de85
+      internalID: 950363142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 330
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c96ca9b78a2544884b8a2e37e5eb9
+      internalID: 1947723358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 300
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab62558a075c6d4ab18a5d5e339f38b
+      internalID: -1018896479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b19590641896524ebcc9d4b34bc7df8
+      internalID: 1480626843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 121
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20a82d714be6149b8a0b8a9aa8be99
+      internalID: -604511750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 92
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0049c14478675340bb9005f7a5ddaf1
+      internalID: -1377943105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b3785f8f93db4b9537c946954a6ad
+      internalID: -700206357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96d4eb264ca5d40943a4625c6b3bf8
+      internalID: 460235489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 121
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ca3b5d80774c4c86b1b762d53db0a
+      internalID: 210814400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 91
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5930240f9a5b7c94982525a67a3c8925
+      internalID: -329877062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 60
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7261629f2c1b4caf877b9a0d76b5f
+      internalID: 137256613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924db2dccda38f4ca5830973d6d0298
+      internalID: -39300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 362
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115c395934c3d34b81b0cf7c428c0df
+      internalID: -979115042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2060f269af8206f4c9b719ff570051a5
+      internalID: -1753397831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 362
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76db340b7b80324987b56196ee61d96
+      internalID: 1772201788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 361
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f812e54182d2489b249b83f88c3cb
+      internalID: 362599570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 331
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048e44c5d2a310e42adfde04d83626d0
+      internalID: -2104939614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf4e8db42ea8540b9e28e249064b7d
+      internalID: -2124111074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 212
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09025344a1cdb44b25b408045b2ee0
+      internalID: 884724035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 240
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2e7280a8426446968494f9227f208
+      internalID: -2132889971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eee7206fce94e4893ddbbf1c6241f0
+      internalID: 1886736398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 212
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e157cc3a3154544a53f3aff0fab4c8
+      internalID: 1178125820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 212
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e484435e2315a6747979b51cdd9ec10a
+      internalID: -1124978342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 269
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb3aa7aef1073f419e35068acd9459f
+      internalID: 2086332070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 375
+        width: 92
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da4e3866d305341997bd6b9c39b483
+      internalID: -22623942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69450e2bff8417b4bb12303c96a4852d
+      internalID: 1853788343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 179
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e81f3c0234f9418c2655572fadcbb
+      internalID: 1074127038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53512bc507d84bb4ea8a86d780f74a49
+      internalID: -522994545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aea9cf5520d4e4f96ef870879dd212
+      internalID: -1302795609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e494fabf5e12f469e38d6f54f96184
+      internalID: -933582011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 152
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4431bce767becb34aa4d80df32b20385
+      internalID: -17222189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111cb64e23a1c0647ae4711f330ecfdd
+      internalID: -541426809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac2e5149b7f3a44989e3ac35995a0b
+      internalID: -2035151057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 93
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c867ccf622228c4186fd93a3b658a70
+      internalID: -818778769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a604f771f4f9458f6062d55ff99e5
+      internalID: 1608419008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 93
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521b2eae09068b4a8db5786646cc4cb
+      internalID: 1852777061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df4d932a599e04e800c89670742da7
+      internalID: 968419120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 29
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28f5f62db125e42a14635bc81fe9a5
+      internalID: -1450350556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four-seasons-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 28
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2752ab5f9d3c4195a77eef33e6dd0
+      internalID: -1725465684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      four-seasons-tileset_0: 1293236760
+      four-seasons-tileset_1: -832710213
+      four-seasons-tileset_10: -1505324421
+      four-seasons-tileset_11: -2106331194
+      four-seasons-tileset_12: 1999860921
+      four-seasons-tileset_13: -1236862577
+      four-seasons-tileset_14: 1590018674
+      four-seasons-tileset_15: -1188920395
+      four-seasons-tileset_16: -1336596518
+      four-seasons-tileset_17: 1458059933
+      four-seasons-tileset_18: -1051568415
+      four-seasons-tileset_19: -2047207231
+      four-seasons-tileset_2: -61304211
+      four-seasons-tileset_20: -1487869130
+      four-seasons-tileset_21: 1049765865
+      four-seasons-tileset_22: -53301438
+      four-seasons-tileset_23: -443037425
+      four-seasons-tileset_24: 950363142
+      four-seasons-tileset_25: 1947723358
+      four-seasons-tileset_26: -1018896479
+      four-seasons-tileset_27: 1480626843
+      four-seasons-tileset_28: -604511750
+      four-seasons-tileset_29: -1377943105
+      four-seasons-tileset_3: 1853688068
+      four-seasons-tileset_30: -700206357
+      four-seasons-tileset_31: 460235489
+      four-seasons-tileset_32: 210814400
+      four-seasons-tileset_33: -329877062
+      four-seasons-tileset_34: 137256613
+      four-seasons-tileset_35: -39300310
+      four-seasons-tileset_36: -979115042
+      four-seasons-tileset_37: -1753397831
+      four-seasons-tileset_38: 1772201788
+      four-seasons-tileset_39: 362599570
+      four-seasons-tileset_4: 196553775
+      four-seasons-tileset_40: -2104939614
+      four-seasons-tileset_41: -2124111074
+      four-seasons-tileset_42: 884724035
+      four-seasons-tileset_43: -2132889971
+      four-seasons-tileset_44: 1886736398
+      four-seasons-tileset_45: 1178125820
+      four-seasons-tileset_46: -1124978342
+      four-seasons-tileset_47: 2086332070
+      four-seasons-tileset_48: -22623942
+      four-seasons-tileset_49: 1853788343
+      four-seasons-tileset_5: 860890505
+      four-seasons-tileset_50: 1074127038
+      four-seasons-tileset_51: -522994545
+      four-seasons-tileset_52: -1302795609
+      four-seasons-tileset_53: -933582011
+      four-seasons-tileset_54: -17222189
+      four-seasons-tileset_55: -541426809
+      four-seasons-tileset_56: -2035151057
+      four-seasons-tileset_57: -818778769
+      four-seasons-tileset_58: 1608419008
+      four-seasons-tileset_59: 1852777061
+      four-seasons-tileset_6: 947639732
+      four-seasons-tileset_60: 968419120
+      four-seasons-tileset_61: -1450350556
+      four-seasons-tileset_62: -1725465684
+      four-seasons-tileset_7: 159995569
+      four-seasons-tileset_8: 280236992
+      four-seasons-tileset_9: 572513895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
